@@ -3,6 +3,7 @@
 - I'm An undergrad final year student
 - 👀 I’m interested in Problem Solving and Android development
 - 🌱 I’m currently learning Android development using Kotlin
+- - I'm good at Data Structures and Algorithms using C/C++
 - 💞️ I’m looking to collaborate on Open Source SDK's of android
 - 📫 Reach me on pulkitgpt1234@gmail.com
 
