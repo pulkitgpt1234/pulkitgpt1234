@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @pulkitgpt1234 
 - My name is Pulkit Gupta
-- I'm An undergrad final year student
-- 👀 I’m interested in Problem Solving and Android development
-- 🌱 I’m currently learning Android development using Kotlin
-- - I'm good at Data Structures and Algorithms using C/C++
-- 💞️ I’m looking to collaborate on Open Source SDK's of android
+- I'm currenlty working as a Jr. Software Engineer in InTimeTec
+- my role is .NET Developer
+- 👀 I’m interested in Problem Solving and web development using React and Node.js
+- - I'm very good at Data Structures and Algorithms using C++/C
 - 📫 Reach me on pulkitgpt1234@gmail.com
 
 <!---
