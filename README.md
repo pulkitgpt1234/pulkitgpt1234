@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pulkitgpt1234 
+- 👋 Hi, Welcome to github's @pulkitgpt1234 
 - My name is Pulkit Gupta
 - I'm currenlty working as a Jr. Software Engineer in InTimeTec
 - my role is .NET Developer
