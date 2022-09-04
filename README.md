@@ -5,8 +5,8 @@
 - 👀 I’m interested in Problem Solving and web development using React and Node.js
 - - I'm very good at Data Structures and Algorithms using C++/C
 - coding profiles
-**geeksforgeeks - https://auth.geeksforgeeks.org/user/pulkitgpt/practice/
-** leetcode - https://leetcode.com/pulkitgpt1234/
+- geeksforgeeks - https://auth.geeksforgeeks.org/user/pulkitgpt/practice/
+- leetcode - https://leetcode.com/pulkitgpt1234/
 - 📫 Reach me on pulkitgpt1234@gmail.com
 
 <!---
