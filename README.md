@@ -3,7 +3,7 @@
 - I'm currenlty working as a Jr. Software Engineer in InTimeTec
 - my role is .NET Developer
 - 👀 I’m interested in Problem Solving and web development using React and Node.js
-- - I'm very good at Data Structures and Algorithms using C++/C
+- I'm very good at Data Structures and Algorithms using C++ or C
 - coding profiles
 - geeksforgeeks - https://auth.geeksforgeeks.org/user/pulkitgpt/practice/
 - leetcode - https://leetcode.com/pulkitgpt1234/
