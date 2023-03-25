@@ -1,10 +1,10 @@
 - 👋 Hi, Welcome to github's @pulkitgpt1234 
 - My name is Pulkit Gupta
-- I'm currenlty working as a Jr. Software Engineer in InTimeTec
-- my role is .NET Developer
-- 👀 I’m interested in Problem Solving and web development using React and Node.js
-- I'm very good at Data Structures and Algorithms using C++ or C
-- coding profiles
+- I'm currenlty working as a Software Engineer.
+- My role is as a .Net Core Backend Developer.
+- 👀 I’m good at Problem Solving using DS&A.
+- I also know Front end web development using React.js
+- coding profiles -
 - geeksforgeeks - https://auth.geeksforgeeks.org/user/pulkitgpt/practice/
 - leetcode - https://leetcode.com/pulkitgpt1234/
 - 📫 Reach me on pulkitgpt1234@gmail.com
